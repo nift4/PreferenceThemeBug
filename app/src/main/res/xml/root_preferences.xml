@@ -1,0 +1,6 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+	<Preference
+		app:title="Step 2: press back button" />
+
+</PreferenceScreen>
